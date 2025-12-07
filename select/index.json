@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Red Bull 64 bars",
+  "base_artist": "Pxrge Trxxxper",
+  "createdAt": "2025-12-07T06:47:52.620729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red Bull & Hennessy",
+      "artist": "Jenny Lewis",
+      "has_synced": true,
+      "path": "select/01_Red_Bull_&_Hennessy_Jenny_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Bull",
+      "artist": "Cordrazine",
+      "has_synced": false,
+      "path": "select/02_Red_Bull_Cordrazine.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Bull",
+      "artist": "Gedz",
+      "has_synced": true,
+      "path": "select/03_Red_Bull_Gedz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Bull",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/04_Red_Bull_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Bull Of Juarez",
+      "artist": "Frodus",
+      "has_synced": false,
+      "path": "select/05_Red_Bull_Of_Juarez_Frodus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nostradamus (Red Bull 64 Bars)",
+      "artist": "Ikka feat. Karan Kanchan",
+      "has_synced": true,
+      "path": "select/06_Nostradamus_(Red_Bull_64_Bars)_Ikka_feat._Karan_Kanchan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nostradamus (Red Bull 64 Bars)",
+      "artist": "Ikka, Karan Kanchan",
+      "has_synced": true,
+      "path": "select/07_Nostradamus_(Red_Bull_64_Bars)_Ikka,_Karan_Kanchan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mother O.G. (Red Bull 64 Bars)",
+      "artist": "Agsy",
+      "has_synced": false,
+      "path": "select/08_Mother_O.G._(Red_Bull_64_Bars)_Agsy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Bull Red Label",
+      "artist": "Kaleb Di Masi feat. Alejo Isakk & Omar Varela",
+      "has_synced": true,
+      "path": "select/09_Red_Bull_Red_Label_Kaleb_Di_Masi_feat._Alejo_Isakk_&_Omar_Varela.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Red Bull Red Label",
+      "artist": "Kaleb Di Masi/Alejo Isakk/Omar Varela",
+      "has_synced": true,
+      "path": "select/10_Red_Bull_Red_Label_Kaleb_Di_Masi_Alejo_Isakk_Omar_Varela.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mera Bichraa Yaar - Red Bull Soundclash (Live)",
+      "artist": "Strings",
+      "has_synced": false,
+      "path": "select/11_Mera_Bichraa_Yaar_-_Red_Bull_Soundclash_(Live)_Strings.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sar Kiye Yeh Pahar: Red Bull Soundclash (Live)",
+      "artist": "Strings",
+      "has_synced": false,
+      "path": "select/12_Sar_Kiye_Yeh_Pahar__Red_Bull_Soundclash_(Live)_Strings.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Drinking / Rum & Red Bull",
+      "artist": "Beenie Man & Fambo",
+      "has_synced": true,
+      "path": "select/13_I'm_Drinking___Rum_&_Red_Bull_Beenie_Man_&_Fambo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Drinking_Rum & Red Bull",
+      "artist": "Beenie Man featuring Fambo",
+      "has_synced": true,
+      "path": "select/14_I'm_Drinking_Rum_&_Red_Bull_Beenie_Man_featuring_Fambo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SLS (ft. Guè, Bello Figo) - Red Bull Posse",
+      "artist": "VillaBanks feat. Bello Figo, Guè & Linch",
+      "has_synced": true,
+      "path": "select/15_SLS_(ft._Guè,_Bello_Figo)_-_Red_Bull_Posse_VillaBanks_feat._Bello_Figo,_Guè_&_Linch.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SLS (Red Bull Posse)",
+      "artist": "VillaBanks",
+      "has_synced": true,
+      "path": "select/16_SLS_(Red_Bull_Posse)_VillaBanks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SLS (Red Bull Posse)",
+      "artist": "VillaBanks; Linch; Bello Figo; Guè",
+      "has_synced": true,
+      "path": "select/17_SLS_(Red_Bull_Posse)_VillaBanks;_Linch;_Bello_Figo;_Guè.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Drinking / Rum & Red Bull",
+      "artist": "Beenie Man",
+      "has_synced": true,
+      "path": "select/18_I'm_Drinking___Rum_&_Red_Bull_Beenie_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Red Bull 64 bars",
+      "artist": "Pxrge Trxxxper",
+      "has_synced": false,
+      "path": "select/pl_01_Red_Bull_64_bars_Pxrge_Trxxxper.txt"
+    }
+  ]
+}
